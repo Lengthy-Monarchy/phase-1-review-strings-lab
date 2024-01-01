@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2023-12-17T23:10:04.443Z",
-    "end": "2023-12-17T23:10:12.360Z",
-    "duration": 7917
+    "start": "2024-01-01T18:41:30.591Z",
+    "end": "2024-01-01T18:41:39.289Z",
+    "duration": 8698
   },
   "tests": [],
   "pending": [],
@@ -15,7 +15,7 @@
     {
       "title": "\"before all\" hook",
       "fullTitle": "\"before all\" hook",
-      "duration": 7908,
+      "duration": 8691,
       "currentRetry": 0,
       "err": {
         "stack": "Error: Timeout of 5000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves.\n    at Object.done (node_modules/mocha-jsdom/index.js:70:7)\n    at /mnt/c/Users/annei/Desktop/Personal-Projects/Moringa-Projects/labs/Phase-1/phase-1-review-strings-lab/phase-1-review-strings-lab/node_modules/jsdom/lib/jsdom.js:312:18\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)",
